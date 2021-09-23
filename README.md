@@ -1,7 +1,7 @@
-# Drugs Art
+# Candy Art
 
-This is a repo with some pixel art based on pills presses.  
-This is meant to be used in a game or for prevention only.
+This is a repo with some pixel art based on candy presses.  
+This is meant to be used in a game or something. No license atm.
 
 ## List
 
