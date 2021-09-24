@@ -1,4 +1,4 @@
-# Candy Art
+# Candy Api
 
 This is a repo with some pixel art based on candy presses.  
 This is meant to be used in a game or something. No license atm.
